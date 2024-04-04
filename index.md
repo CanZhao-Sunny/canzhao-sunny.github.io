@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="360" height="480">
+<img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="320" height="400">
 
 Here is **Can Zhao (Vivian, 赵灿)**.
 
@@ -18,22 +18,22 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**
 
-**MS in Engineering Mechanics**, Shanghai Jiao Tong University<p align="right">*Sept. 2022 – Mar. 2025 (Expected)*</p>
+**MS in Engineering Mechanics**, Shanghai Jiao Tong University<span style="float:right;">*Sept. 2022 – Mar. 2025 (Expected)*</span>
 
-The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
+- The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
 
-GPA: 3.87/4.0 
+- GPA: 3.87/4.0 
 
-**BE in Engineering Mechanics**, Sichuan University<p align="right">*Sept. 2018 - Jul. 2022*</p>
+**BE in Engineering Mechanics**, Sichuan University<span style="float:right;">*Sept. 2018 - Jul. 2022*</span>
 
-GPA: 3.93/4.0, Ranking: 1/40
+- GPA: 3.93/4.0, Ranking: 1/40
 
 ---
 
 ## Research Interests
 
-- Tactile perception & force sensing
-- Modeling and manipulation of deformable objects
+- Tactile Perception & Force Sensing
+- Modeling and Manipulation of Deformable Objects
 - Applied Machine Learning
 - [My latest research proposal](https://canzhao-sunny.github.io/file/proposal-2023.pdf)🔗
 
@@ -61,31 +61,31 @@ In a word, advanced technologies like robotics and  ML positively influence the 
 
 **Honors**
 
-- China International College Students’ “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%) <p align="right">*Nov. 2023*</p>
+- China “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%)<span style="float:right;">*Nov. 2023*</span>
 
-- Outstanding Graduate in Sichuan Province (Top 3%) <p align="right">*Mar. 2022*</p>
+- Outstanding Graduate in Sichuan Province (Top 3%)<span style="float:right;">*Mar. 2022*</span>
 
-- China National Undergraduate Mechanics Competition (Third Prize, Top 5%) <p align="right">*Aug. 2021*</p>
+- China National Undergraduate Mechanics Competition (Third Prize)<span style="float:right;">*Aug. 2021*</span>
 
-- China National Undergraduate Mathematics Competition in Sichuan Province (First Prize, Top 8%) <p align="right">*Aug. 2020*</p>
+- China National Undergraduate Mathematics Competition in Sichuan Province (First Prize)<span style="float:right;">*Aug. 2020*</span>
 
-- Outstanding Student (Leader) at Sichuan University (Top 10%) <p align="right">*Nov. 2019/2020/2021*</p>
+- Outstanding Student (Leader) at Sichuan University <span style="float:right;">*Nov. 2019/2020/2021*</span>
 
 **Scholarships**
 
-- China Optics Valley Scholarship (Optoelectronics Information Award) <p align="right">*Nov. 2023*</p>
+- China Optics Valley Scholarship (Optoelectronics Information Award)<span style="float:right;">*Nov. 2023*</span>
 
-- First Class Scholarship at Shanghai Jiao Tong University <p align="right">*Nov. 2022/2023*</p>
+- First Class Scholarship at Shanghai Jiao Tong University<span style="float:right;">*Nov. 2022/2023*</span>
 
-- Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation) <p align="right">*Dec. 2021*</p>
+- Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation)<span style="float:right;">*Dec. 2021*</span>
 
-- China National Scholarship (Top 0.2%), Cheung Kong Power Scholarship <p align="right">*Dec. 2020*</p>
+- China National Scholarship (Top 0.2%), Cheung Kong Power Scholarship<span style="float:right;">*Dec. 2020*</span>
 
 ---
 
 ## **Teaching Experience**
 
-**Teaching assistant**, Theoretical Mechanics (Sophomore) <p align="right">*Sept. 2022 - Jan. 2023*</p>
+**Teaching assistant**, Theoretical Mechanics (Sophomore)<span style="float:right;">*Sept. 2022 - Jan. 2023*</span>
 
 - Scored homework and quizzes, organized standard answers, and summarized problem-solving experiences
 
