@@ -4,48 +4,106 @@ layout: page
 
 # About Me
 
-<img src="https://canzhao-sunny.github.io/canzhao.jpg" class="floatpic" width="360" height="480">
+<img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="360" height="480">
 
 Here is **Can Zhao (Vivian, 赵灿)**.
 
-I am a senior undergrad majoring in **EECS** at Shanghai Jiaotong University. Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma).
+I am completing a **M.E.** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]sjtu[dot]edu[dot]cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]gmail[dot]com*
 
-## Academic Background
+---
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!**
+## Education
 
-- **Sep 2024 - Sep 2025：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Intern)
+**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**
+
+**MS in Engineering Mechanics**, Shanghai Jiao Tong University<p align="right">*Sept. 2022 – Mar. 2025 (Expected)*</p>
+
+The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
+
+GPA: 3.87/4.0 
+
+**BE in Engineering Mechanics**, Sichuan University<p align="right">*Sept. 2018 - Jul. 2022*</p>
+
+GPA: 3.93/4.0, Ranking: 1/40
 
 ---
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Cyber-Physical System
-- Industrial Informatics
+- Tactile perception & force sensing
+- Modeling and manipulation of deformable objects
 - Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- [My latest research proposal](https://canzhao-sunny.github.io/file/proposal-2023.pdf)🔗
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.
+
+In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
-## News and Updates
+## **Publication**
 
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Feb 2024：**Got a MSc offer from the CS department of UCL.
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan.
-- **Jun 2022：**Started research intern at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **C. Zhao**, J. Ren, H. Yu and D. Ma, "In-situ Mechanical Calibration for Vision-based Tactile Sensors," 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. doi: 10.1109/ICRA48891.2023.10161153.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- **C. Zhao**, J. Liu and D. Ma\*, "iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-based Tactile Sensors," submitted to IEEE Transactions on Robotics (**T-RO**), currently under review.
 
+- **C. Zhao**, J. Ren, C. Sun, J. Liu, H. Yu and D. Ma\*, "In-situ Mechanical Calibration of Sensing Elastomers for Vision-based Tactile Sensors," submitted to IEEE Transactions on Haptics (**ToH**), currently under review.
+
+- J. Liu, H. Yu, **C. Zhao,** W. Liu, D. Ma\*, and W. Wang\*, "MofiNet: Real-Time Reconstruction of 3D Tactile Motion Field via Multi-Task Learning " submitted to IEEE Transactions on Instrumentation and Measurement (**TIM**), currently under review.
+
+- D. Ma and **C. Zhao.** 基于压痕的视触觉传感器力学参数原位标定方法 (in Chinese). Application number: 2022113978708, Application date: 20221109, currently under substantive examination.
+
+---
+
+## **Award**
+
+**Honors**
+
+- China International College Students’ “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%) <p align="right">*Nov. 2023*</p>
+
+- Outstanding Graduate in Sichuan Province (Top 3%) <p align="right">*Mar. 2022*</p>
+
+- China National Undergraduate Mechanics Competition (Third Prize, Top 5%) <p align="right">*Aug. 2021*</p>
+
+- China National Undergraduate Mathematics Competition in Sichuan Province (First Prize, Top 8%) <p align="right">*Aug. 2020*</p>
+
+- Outstanding Student (Leader) at Sichuan University (Top 10%) <p align="right">*Nov. 2019/2020/2021*</p>
+
+**Scholarships**
+
+- China Optics Valley Scholarship (Optoelectronics Information Award) <p align="right">*Nov. 2023*</p>
+
+- First Class Scholarship at Shanghai Jiao Tong University <p align="right">*Nov. 2022/2023*</p>
+
+- Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation) <p align="right">*Dec. 2021*</p>
+
+- China National Scholarship (Top 0.2%), Cheung Kong Power Scholarship <p align="right">*Dec. 2020*</p>
+
+---
+
+## **Teaching Experience**
+
+**Teaching assistant**, Theoretical Mechanics (Sophomore) <p align="right">*Sept. 2022 - Jan. 2023*</p>
+
+- Scored homework and quizzes, organized standard answers, and summarized problem-solving experiences
+
+- Provided students with individual Q&A sessions and detailed explanations of homework errors
+
+- Conducted review and exercise classes to reinforce key concepts
+
+- Awarded the title of Outstanding Teaching Assistant (Top 1%)
+
+
+---
+
+## **Research Skill**
+
+- **Python**: Machine learning, deep learning (PyTorch), computer vision (OpenCV, OpenGL) and data analysis
+
+- **MATLAB**: 2D and 3D finite element implementation with implicit and explicit solvers, dynamics simulation of mechanical structures
+
+- **Mechanical analysis software**: Abaqus and its secondary development using Python scripts, Ansys and HyperMesh
+
+- **Auxiliary skills**: Linux, Git, LaTeX, Solidworks, AutoCAD and Adobe Suites
