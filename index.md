@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="320" height="400">
+<img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="320" height="350">
 
 Here is **Can Zhao (Vivian, 赵灿)**.
 
-I am completing a **M.E.** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
+I am completing a **MS** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]gmail[dot]com*
 
