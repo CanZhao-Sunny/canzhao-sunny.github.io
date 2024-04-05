@@ -8,24 +8,24 @@ layout: page
 
 <img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="320" height="350">
 
-Here is **Can Zhao (Vivian, 赵灿)**.
+<p>Here is **Can Zhao (Vivian, 赵灿)**.</p>
 
-I am completing a **MS** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
+<p>I am completing a **MS** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.</p>
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]gmail[dot]com*
+<p>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]gmail[dot]com*</p>
 
 ---
 
 ## Education
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**<br>
+<p>**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**</p>
 
-**MS in Engineering Mechanics**, Shanghai Jiao Tong University (Shanghai, China) <span style="float:right;">*Sept. 2022 – Mar. 2025 (Expected)*</span>
+<p>**MS in Engineering Mechanics**, Shanghai Jiao Tong University (Shanghai, China) <span style="float:right;">*Sept. 2022 – Mar. 2025 (Expected)*</span>
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
-- GPA: 3.87/4.0 
+- GPA: 3.87/4.0</p> 
 
-**BE in Engineering Mechanics**, Sichuan University (Sichuan, China) <span style="float:right;">*Sept. 2018 - Jul. 2022*</span>
-- GPA: 3.93/4.0, Ranking: 1/40
+<p>**BE in Engineering Mechanics**, Sichuan University (Sichuan, China) <span style="float:right;">*Sept. 2018 - Jul. 2022*</span>
+- GPA: 3.93/4.0, Ranking: 1/40</p>
 
 ---
 
@@ -33,10 +33,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Tactile Perception & Force Sensing
 - Modeling and Manipulation of Deformable Objects
 - Applied Machine Learning
-</p>
-My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.
-</p>
-In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+
+<p>My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.</p>
+
+<p>In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.</p>
 
 ---
 
@@ -51,14 +51,14 @@ In a word, advanced technologies like robotics and  ML positively influence the 
 
 ## Award
 
-**Honor**<br>
+**Honor**
 - China “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%)<span style="float:right;">*Nov. 2023*</span>
 - Outstanding Graduate in Sichuan Province (Top 3%)<span style="float:right;">*Mar. 2022*</span>
 - China National Undergraduate Mechanics Competition (Third Prize)<span style="float:right;">*Aug. 2021*</span>
 - China National Undergraduate Mathematics Competition in Sichuan Province (First Prize)<span style="float:right;">*Aug. 2020*</span>
 - Outstanding Student (Leader) at Sichuan University <span style="float:right;">*Nov. 2019/2020/2021*</span>
 
-**Scholarship**<br>
+**Scholarship**
 - China Optics Valley Scholarship (Optoelectronics Information Award)<span style="float:right;">*Nov. 2023*</span>
 - First Class Scholarship at Shanghai Jiao Tong University<span style="float:right;">*Nov. 2022/2023*</span>
 - Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation)<span style="float:right;">*Dec. 2021*</span>
