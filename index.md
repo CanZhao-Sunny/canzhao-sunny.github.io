@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Education
 
-**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**<br>
 
 **MS in Engineering Mechanics**, Shanghai Jiao Tong University (Shanghai, China) <span style="float:right;">*Sept. 2022 – Mar. 2025 (Expected)*</span>
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
@@ -30,19 +30,17 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ---
 
 ## Research Interest
-
 - Tactile Perception & Force Sensing
 - Modeling and Manipulation of Deformable Objects
 - Applied Machine Learning
-
+</p>
 My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.
-<br>
+</p>
 In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
 ## Publication
-
 - **C. Zhao**, J. Ren, H. Yu and D. Ma, "In-situ Mechanical Calibration for Vision-based Tactile Sensors," 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [doi: 10.1109/ICRA48891.2023.10161153](doi: 10.1109/ICRA48891.2023.10161153).
 - **C. Zhao**, J. Liu and D. Ma\*, "iFEM2.0: Dense 3D Contact Force Field Reconstruction and Assessment for Vision-based Tactile Sensors," submitted to IEEE Transactions on Robotics (**T-RO**), currently under review.
 - **C. Zhao**, J. Ren, C. Sun, J. Liu, H. Yu and D. Ma\*, "In-situ Mechanical Calibration of Sensing Elastomers for Vision-based Tactile Sensors," submitted to IEEE Transactions on Haptics (**ToH**), currently under review.
@@ -53,14 +51,14 @@ In a word, advanced technologies like robotics and  ML positively influence the 
 
 ## Award
 
-**Honor**
+**Honor**<br>
 - China “Internet+” Innovation and Entrepreneurship Competition (Golden Prize, Top 0.01%)<span style="float:right;">*Nov. 2023*</span>
 - Outstanding Graduate in Sichuan Province (Top 3%)<span style="float:right;">*Mar. 2022*</span>
 - China National Undergraduate Mechanics Competition (Third Prize)<span style="float:right;">*Aug. 2021*</span>
 - China National Undergraduate Mathematics Competition in Sichuan Province (First Prize)<span style="float:right;">*Aug. 2020*</span>
 - Outstanding Student (Leader) at Sichuan University <span style="float:right;">*Nov. 2019/2020/2021*</span>
 
-**Scholarship**
+**Scholarship**<br>
 - China Optics Valley Scholarship (Optoelectronics Information Award)<span style="float:right;">*Nov. 2023*</span>
 - First Class Scholarship at Shanghai Jiao Tong University<span style="float:right;">*Nov. 2022/2023*</span>
 - Sichuan University-Jiangsu Wujiang Hi-Tech Industrial Park Scholarship (Science and Technology Innovation)<span style="float:right;">*Dec. 2021*</span>

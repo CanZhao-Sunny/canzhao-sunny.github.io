@@ -44,7 +44,7 @@ Vision-based tactile sensors offer rich tactile information through high-resolut
 - Laboratory of Biomechanics Engneering, Sichuan University
 - Advisor: Prof. Yu Chen
 - Published 1 [journal paper](https://www.tandfonline.com/doi/abs/10.1080/01443615.2021.1945006)
-
+</p>
 As machine learning is becoming the fashion in disease prediction while no prediction model has performed very efficiently and accurately on predicting pregnancy diseases up to now, it’s necessary to compare several common machine learning methods’ performance on pregnancy diseases prediction and select out the best one. The data of two common pregnancy complications, pregnancy-induced hypertension (PIH) and Intrahepatic cholestasis of pregnancy (ICP), based on various maternal characteristics measured in patients’ routine blood examination in 10–19 weeks of gestation are considered to be suitable to be learned. This is a retrospective study of 320 healthy pregnancies in 10–19 weeks, with 149 patients who subsequently developed PIH and 250 patients who subsequently developed ICP. Nine machine learning methods were used to predict PIH and ICP and their performance was compared via 8 evaluation indexes. Finally, the light Gradient Boosting Machine (lightGBM) is considered to be the best method to predict gestational diseases.
 
 ### **Application of machine learning in disease prediction (Review)**
@@ -53,7 +53,7 @@ As machine learning is becoming the fashion in disease prediction while no predi
 - Laboratory of Biomechanics Engneering, Sichuan University
 - Advisor: Prof. Yu Chen
 - Published 1 [journal paper](https://swyxgcyj.com/oa/DArticle.aspx?type=view&id=20210217)
-
+</p>
 We expound the concept and classification of machine learning and introduce several common kinds of machine learning methods applied on medical disease production practice, such as K-nearest neighbor, Naive Bales, logistic regression, support vector machine, decision tree, integrated tree models and artificial neural networks, we focus on the machine learning application in the prediction of some common diseases, such as cardiovascular diseases, diabetes, kidney diseases, tumor, pregnancy diseases and so on. We mainly analyze the characteristics of machine learning in disease prediction from three aspects: feature selection, algorithm and model accuracy.
 
 ---
