@@ -23,6 +23,7 @@ title: Projects
 
 <div>
 <img src="https://canzhao-sunny.github.io/images/speech1.jpg">
+</img>
 </div>
 <br>
 
@@ -46,7 +47,9 @@ The mechanical parameters, such as Young’s modulus and Poisson’s ratio, are 
 
 <div>
 <img src="https://canzhao-sunny.github.io/images/videos/speech2.jpg">
+  </img>
 </div>
+
 <br>
 
 Vision-based tactile sensors offer rich tactile information through high-resolution tactile images, enabling the reconstruction of dense contact force fields on the sensor surface. However, accurately reconstructing the three-dimensional (3D) contact force distribution, including tangential components, remains a challenge. We propose **the multi-layer inverse finite element method (iFEM2.0)** as a robust and generalized approach to reconstruct dense contact force distribution for vision-based tactile sensors. We systematically analyze various parameters within the iFEM2.0 framework, and determine the appropriate parameter combinations through simulation comparisons and in-situ mechanical calibration. Our approach incorporates multi-layer mesh constraints, ridge regularization, and filtering mechanisms to enhance robustness. Furthermore, since there exists no off-the-shelf measurement equipment or criterion metrics for 3D contact force distribution perception, we present a comprehensive assessment benchmark covering accuracy, fidelity, and noise resistance that can serve as a cornerstone for other future force distribution reconstruction methods. The proposed iFEM2.0 demonstrates good performance in both simulation- and experiment-based evaluations. Such dense 3D contact force information is critical for enabling dexterous robotic manipulation that handles both rigid and soft materials.
@@ -76,7 +79,6 @@ As machine learning is becoming the fashion in disease prediction while no predi
 - Published 1 [journal paper](https://swyxgcyj.com/oa/DArticle.aspx?type=view&id=20210217)
 
 We expound the concept and classification of machine learning and introduce several common kinds of machine learning methods applied on medical disease production practice, such as K-nearest neighbor, Naive Bales, logistic regression, support vector machine, decision tree, integrated tree models and artificial neural networks, we focus on the machine learning application in the prediction of some common diseases, such as cardiovascular diseases, diabetes, kidney diseases, tumor, pregnancy diseases and so on. We mainly analyze the characteristics of machine learning in disease prediction from three aspects: feature selection, algorithm and model accuracy.
-
 
 
 
