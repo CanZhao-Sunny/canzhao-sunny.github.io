@@ -8,24 +8,24 @@ layout: page
 
 <img src="https://canzhao-sunny.github.io/can_poster.jpg" class="floatpic" width="320" height="350">
 
-<p>Here is **Can Zhao (Vivian, 赵灿)**.</p>
+Here is **Can Zhao (Vivian, 赵灿)**.
 
-<p>I am completing a **MS** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.</p>
+I am completing a **MS** in Shanghai Jiaotong University  where I am advised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma) in the [MPI Lab](https://mpi.sjtu.edu.cn/). I previously received the Bachelor degree from Sichuan University (SCU) in 2022.
 
-<p>If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]gmail[dot]com*</p>
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *can[dot]zhxx[at]gmail[dot]com*
 
 ---
 
 ## Education
 
-<p>**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**</p>
+**<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2025 Spring/Fall. Contact me if you have any leads!**<br>
 
-<p>**MS in Engineering Mechanics**, Shanghai Jiao Tong University (Shanghai, China) <span style="float:right;">*Sept. 2022 – Mar. 2025 (Expected)*</span>
+**MS in Engineering Mechanics**, Shanghai Jiao Tong University (Shanghai, China) <span style="float:right;">*Sept. 2022 – Mar. 2025 (Expected)*</span>
 - The [MPI Lab](https://mpi.sjtu.edu.cn/) (Manipulation, Perception and Intelligence Laboratory) member, supervised by [Prof. Daolin Ma](https://www.researchgate.net/profile/Daolin-Ma)
-- GPA: 3.87/4.0</p> 
+- GPA: 3.87/4.0
 
-<p>**BE in Engineering Mechanics**, Sichuan University (Sichuan, China) <span style="float:right;">*Sept. 2018 - Jul. 2022*</span>
-- GPA: 3.93/4.0, Ranking: 1/40</p>
+**BE in Engineering Mechanics**, Sichuan University (Sichuan, China) <span style="float:right;">*Sept. 2018 - Jul. 2022*</span>
+- GPA: 3.93/4.0, Ranking: 1/40
 
 ---
 
@@ -34,9 +34,9 @@ layout: page
 - Modeling and Manipulation of Deformable Objects
 - Applied Machine Learning
 
-<p>My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.</p>
+My current research focuses on the modeling, perception and manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. In addition, I’m broadly interested in machine learning, force sensing, and tactile perception with their applications to robotic dexterous manipulation of various objects.
 
-<p>In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.</p>
+In a word, advanced technologies like robotics and  ML positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
